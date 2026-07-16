@@ -1,0 +1,13 @@
+.sn-helper-btn {
+  margin-left: 1px !important;
+  margin-right: 0px !important;
+  vertical-align: middle !important;
+}
+
+#sn-helper-toast-container {
+  pointer-events: none;
+}
+
+.sn-helper-toast {
+  pointer-events: auto;
+}
